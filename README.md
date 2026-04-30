@@ -1,2 +1,7 @@
-# demo-estudio-juridico-barnat
-Demo web para Estudio Jurídico Barnat — diseñada por eterlab.
+# Estudio Jurídico Barnat
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
